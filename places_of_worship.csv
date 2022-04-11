@@ -1,0 +1,51 @@
+id,tags.name,tags.denomination,tags.building,lat,lon,coords_imputed,filename
+144164756,"St Margaret and St Catherine, Aldham",anglican,,51.898162,0.785737,True,st_margaret_and_st_catherine_aldham
+145482410,"St Michael and All Angels, Copford",anglican,,51.869317,0.809385,True,st_michael_and_all_angels_copford
+35139156,St. Albright's Church,anglican,,51.883674,0.817888,True,st_albright_s_church
+146823677,"All Saints, Eight Ash Green",anglican,,51.896594,0.820112,True,all_saints_eight_ash_green
+913980214,Eight Ash Green Methodist Church,,,51.8959184,0.8223225,False,eight_ash_green_methodist_church
+239920515,"St Marys, Little Birch (ruin)",,,51.85149,0.830044,True,st_marys_little_birch_ruin_
+167800231,"West Bergholt, Old Church",anglican,,51.917025,0.838337,True,west_bergholt_old_church
+148016692,"St Mary the Virgin, West Bergholt",anglican,,51.914209,0.850443,True,st_mary_the_virgin_west_bergholt
+411566824,Catholic Church of St. Teresa of Lisieux,catholic,,51.8837866,0.851728,False,catholic_church_of_st_teresa_of_lisieux
+627970562,Kingsland Church,,yes,51.889319,0.852302,True,kingsland_church
+511059942,Kingsland Church,,yes,51.889739,0.85717,True,kingsland_church
+148643489,Saint Leonard,anglican,yes,51.889563,0.863338,True,saint_leonard
+511059923,Prettygate Baptist Church,,yes,51.879687,0.864506,True,prettygate_baptist_church
+150850656,"St Cedd, Shrub End",anglican,,51.872513,0.871671,True,st_cedd_shrub_end
+539182820,St John the Baptist,roman_catholic,,51.8716713,0.873008,False,st_john_the_baptist
+148809296,"St John, Great Horkesley",anglican,,51.928999,0.877861,True,st_john_great_horkesley
+150699094,"Christ Church, Colchester",anglican,,51.883309,0.883438,True,christ_church_colchester
+349195466,Mile End Methodist,methodist,,51.9153965,0.8903348,False,mile_end_methodist
+150928303,Myland Saint Michael's,anglican,yes,51.91084,0.891993,True,myland_saint_michael_s
+358629001,Catholic Church of Saint Joseph,catholic,residential,51.912552,0.893258,True,catholic_church_of_saint_joseph
+511060049,Seventh Day Adventist Church,seventh_day_adventist,yes,51.895173,0.895006,True,seventh_day_adventist_church
+395436771,The Salvation Army Family Worship and Community Centre,salvation_army,yes,51.886494,0.895378,True,the_salvation_army_family_worship_and_community_centre
+32806058,St. Peter's Colchester,anglican,yes,51.89002,0.896746,True,st_peter_s_colchester
+515776519,Abbeyfield Community Church,evangelical,yes,51.887347,0.899245,True,abbeyfield_community_church
+8227577055,Lion Walk URC,united_reformed_church,,51.8883569,0.9006983,False,lion_walk_urc
+377858768,St. Helen's Chapel,greek_orthodox,,51.8912329,0.9016042,False,st_helen_s_chapel
+482446142,Castle Methodist Church,,yes,51.89021,0.902281,True,castle_methodist_church
+148886336,"St Margarets, Berechurch",anglican,,51.863692,0.907415,True,st_margarets_berechurch
+625709591,Orchard Baptist Church,baptist,yes,51.859921,0.907909,True,orchard_baptist_church
+151549600,St Stephen's Church Centre,anglican,,51.879734,0.910747,True,st_stephen_s_church_centre
+190014858,Colchester Gospel Hall,gospel,gospel_hall,51.88299,0.913232,True,colchester_gospel_hall
+502497018,"The Ark, Highwoods Methodist Church",methodist,yes,51.916293,0.921416,True,the_ark_highwoods_methodist_church
+352588357,Colchester Christian Spiritualist Church,,yes,51.879574,0.921775,True,colchester_christian_spiritualist_church
+150831899,"St Anne's, Colchester",anglican,,51.893957,0.922369,True,st_anne_s_colchester
+502966635,Salvation Army Colchester Mount Zion Corps,salvation_army,yes,51.90543,0.923309,True,salvation_army_colchester_mount_zion_corps
+150838753,"St Barnabas, Old Heath",anglican,,51.8707,0.925513,True,st_barnabas_old_heath
+150696071,"St John the Evangelist, Colchester",anglican,,51.911231,0.928321,True,st_john_the_evangelist_colchester
+148771250,"St Andrew, Greenstead",anglican,,51.886936,0.932766,True,st_andrew_greenstead
+150698271,"St Matthew, Colchester",anglican,,51.896684,0.934167,True,st_matthew_colchester
+380237558,Kingdom Hall of Jehovah's Witnesses,jehovahs_witness,yes,51.882178,0.935644,True,kingdom_hall_of_jehovah_s_witnesses
+669771448,Elim Church Colchester,Elim_Pentacostal,yes,51.890972,0.935959,True,elim_church_colchester
+148279341,"St Andrew, Fingringhoe",anglican,yes,51.845209,0.945117,True,st_andrew_fingringhoe
+145007646,"St Lawrence, East Donyland",anglican,,51.855661,0.946258,True,st_lawrence_east_donyland
+3312122647,Mariners' Chapel,free_evangelical,,51.8584949,0.9472048,False,mariners_chapel
+151011092,St Monica Roman Catholic Church,catholic,yes,51.859073,0.959094,True,st_monica_roman_catholic_church
+59276125,"St Mary the Virgin, Wivenhoe",anglican,yes,51.855057,0.959371,True,st_mary_the_virgin_wivenhoe
+151043584,Wivenhoe Methodist Church,methodist,yes,51.860673,0.960149,True,wivenhoe_methodist_church
+138711895,Ardleigh Methodist Church,methodist,yes,51.925747,0.983996,True,ardleigh_methodist_church
+58536055,St Mary The Virgin,anglican,yes,51.926554,0.985736,True,st_mary_the_virgin
+55616728,"St Anne & St Laurence, Elmstead Market",anglican,,51.894388,0.999748,True,st_anne__st_laurence_elmstead_market
